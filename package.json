@@ -1,0 +1,38 @@
+{
+  "name": "laravel-react-spa-auth-with-sanctum-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.2.0",
+    "@tailwindcss/ui": "^0.6.0",
+    "@tailwindui/react": "^0.1.1",
+    "axios": "^0.20.0",
+    "cookie": "^0.4.1",
+    "js-cookie": "^2.2.1",
+    "next": "9.5.3",
+    "notistack": "^0.9.17",
+    "nprogress": "^0.2.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "sass": "^1.26.10",
+    "tailwindcss": "^1.8.6"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.5",
+    "eslint-plugin-react-hooks": "^4.0.8",
+    "postcss-selector-parser": "^6.0.2",
+    "prettier": "^2.0.5"
+  }
+}
